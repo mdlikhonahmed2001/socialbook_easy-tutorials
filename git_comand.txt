@@ -1,0 +1,13 @@
+echo "# socialbook_easy-tutorials" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/mdlikhonahmed2001/socialbook_easy-tutorials.git
+git push -u origin master
+
+
+
+git remote add origin https://github.com/mdlikhonahmed2001/socialbook_easy-tutorials.git
+git branch -M master
+git push -u origin master
