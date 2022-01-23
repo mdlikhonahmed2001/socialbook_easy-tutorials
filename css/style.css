@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     font-family: 'poppins', 'sans-serif'; 
+    box-sizing: border-box;
 }
 
 body{
@@ -210,4 +211,15 @@ width: fit-content;
     font-size: 12px;
     text-decoration: none;
     color: #1876f2;
+}
+
+.left-event span{
+position: absolute;
+bottom: 0;
+left: 0%;
+width: 100%;
+background:#1876f2;
+color: #fff;
+font-size: 10px;
+padding:4px 0;
 }
